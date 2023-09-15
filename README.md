@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Sou o Thiago Lima Santos
 
-<!--
-**ThiagoSantos21/ThiagoSantos21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 Estudante de Engenharia de Software na PUC - Campinas 6º Semestre
+- 🎉 Hobbys: Gosto de praticar atividade física 🏋️ e jogar 🎮 com os amigos.
+- 📫 E-mail: thiagolima-santos@hotmail.com
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Thiago Santos's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ThiagoSantos21\&show_icons=true\&title_color=fff\&icon_color=0180ff\&text_color=9f9f9f\&bg_color=151515\&locale=pt-br) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSantos21&layout=compact\&locale=pt-br\&title_color=fff\&bg_color=151515\&text_color=9f9f9f\&hide=cmake\&langs_count=7)
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
