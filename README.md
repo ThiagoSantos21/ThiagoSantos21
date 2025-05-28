@@ -1,6 +1,6 @@
 ### Olá! Sou o Thiago Lima Santos
 
-- 👨‍🎓 Estudante de Engenharia de Software na PUC - Campinas 6º Semestre
+- 👨‍🎓 Estudante de Engenharia de Software na PUC - Campinas 8º Semestre
 - 🎉 Hobbys: Gosto de praticar atividade física 🏋️ e jogar 🎮 com os amigos.
 - 📫 E-mail: thiagolima-santos@hotmail.com
 
